@@ -2719,7 +2719,3 @@
       }
     })
   }
-  # 
-  # #📄 Scraping page starting at 880...
-  # ⬇️ Downloading https://stacks.cdc.gov/view/cdc/164601/cdc_164601_DS1.pdf ...
-  # ✅ Saved: 164601.pdf needs to be downloaded
